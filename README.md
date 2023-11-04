@@ -2,7 +2,7 @@
 # Projeto Profile card component
 
 ![Alt text](design/desktop-design.jpg)
-![Alt text](design/mobile-design.jpg-design.jpg)
+![Alt text](design/mobile-design.jpg)
 
 
 ## ⭐ Sobre
