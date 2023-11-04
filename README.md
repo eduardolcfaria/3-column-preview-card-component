@@ -10,7 +10,7 @@
 
  ## 🔗 Links
  
- - <a href= https://eduardolcfaria.github.io/workshop-profile-card target="_blank"> Deployment no Github Pages</a>
+ - <a href= https://eduardolcfaria.github.io/3-column-preview-card-component target="_blank"> Deployment no Github Pages</a>
  
  
 
